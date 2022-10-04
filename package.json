@@ -1,0 +1,15 @@
+{
+  "name": "ejercicio02",
+  "version": "1.0.0",
+  "description": "Ejercicio02 OpenBootCamp - Curso JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "ejercicio02"
+  },
+  "keywords": [
+    "ejercicio02"
+  ],
+  "author": "Alfredo Carpio",
+  "license": "ISC"
+}
